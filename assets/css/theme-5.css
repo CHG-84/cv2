@@ -17,8 +17,22 @@
 .meta span a{color:#000000}
 .btn-primary{color:#000000}
 .blog-nav .nav-link{color:#000000}
-.header .blog-name a {color: #000000}
 .bio{color:#000000}
-.header .nav-item.active .nav-link {background-color:#000000;color:#EEA73B}
+.header .blog-name a {color: #000000}
+.header .nav-item.active .nav-link {color:#EEA73B; background-color:#000000}
 .header .nav-item .nav-link {color:#000000}
+.header .btn-primary {color:#000000; background-color: #EEA73B; border-color: #000000}
+.btn-primary:hover {color: #000000; background-color: #cb8112; border-color: #000000}
 
+/*ABOUT -- Plantilla de cambios*/
+.profile-section .bio a {color:#000000}
+
+/*BLOG-LIST -- Plantilla de cambios*/
+a.more-link{background-color: #FFFFFF;color: #000000}
+
+/*BLOG-POST -- Plantilla de cambios*/
+.blog-post .image-caption {color:#000000}
+.blog-post .image-caption a {color:#000000}
+.blog-post-body a{color:blue}
+.hljs-keyword{color:#FC8DB5}
+.hljs-comment{color:#f8f8f2}
